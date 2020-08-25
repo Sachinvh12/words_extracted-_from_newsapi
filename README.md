@@ -1,1 +1,1 @@
-# words_extracted-_from_newsapi
+# words extracted from newsapi
